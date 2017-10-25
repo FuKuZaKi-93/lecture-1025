@@ -1,6 +1,7 @@
 # テクノロジー（藤原）10/25授業
 
 ```
+
 fukuzaki93:~/workspace $ pry
 [1] pry(main)> puts "こんにちは"
 こんにちは
